@@ -4,10 +4,9 @@ function myAnimal() {
   return 'dog'
 }
 
-var animal = 'cat'
-
 function yourAnimal() {
-  return 'cat'
+  var animal = 'cat';
+  return animal;
 }
 
 function add(n) {
