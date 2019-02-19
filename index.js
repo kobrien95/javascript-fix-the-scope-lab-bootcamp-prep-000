@@ -4,6 +4,8 @@ function myAnimal() {
   return 'dog'
 }
 
+var animal = 'cat'
+
 function yourAnimal() {
   return 'cat'
 }
