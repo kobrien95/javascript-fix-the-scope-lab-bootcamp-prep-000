@@ -7,7 +7,7 @@ function myAnimal() {
 var animal = 'cat'
 
 function yourAnimal() {
-  return 'animal'
+  return 'cat'
 }
 
 function add(n) {
